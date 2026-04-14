@@ -1,0 +1,37 @@
+[
+  { "id": "1", "name": "Tata Nexon EV", "variant": "Empower+ Long Range", "battery": "40.5 KWH", "range": "465 KM" },
+  { "id": "2", "name": "Tata Punch EV", "variant": "Long Range", "battery": "35 KWH", "range": "421 KM" },
+  { "id": "3", "name": "Tata Tiago EV", "variant": "XT LR", "battery": "24 KWH", "range": "315 KM" },
+  { "id": "4", "name": "Tata Tigor EV", "variant": "XZ+", "battery": "26 KWH", "range": "315 KM" },
+  { "id": "5", "name": "Mahindra XUV400", "variant": "EL Pro", "battery": "39.4 KWH", "range": "390 KM" },
+  { "id": "6", "name": "Mahindra BE 6", "variant": "Base", "battery": "60 KWH", "range": "450 KM" },
+  { "id": "7", "name": "Mahindra XEV 9e", "variant": "Top", "battery": "70 KWH", "range": "500 KM" },
+  { "id": "8", "name": "MG ZS EV", "variant": "Exclusive", "battery": "50.3 KWH", "range": "461 KM" },
+  { "id": "9", "name": "MG Comet EV", "variant": "Smart", "battery": "17.3 KWH", "range": "230 KM" },
+  { "id": "10", "name": "Hyundai Kona Electric", "variant": "Premium", "battery": "39.2 KWH", "range": "452 KM" },
+  { "id": "11", "name": "Hyundai IONIQ 5", "variant": "RWD", "battery": "72.6 KWH", "range": "631 KM" },
+  { "id": "12", "name": "KIA EV6", "variant": "GT Line", "battery": "77.4 KWH", "range": "528 KM" },
+  { "id": "13", "name": "BYD Atto 3", "variant": "Superior", "battery": "60.4 KWH", "range": "521 KM" },
+  { "id": "14", "name": "BYD e6", "variant": "MPV", "battery": "71.7 KWH", "range": "520 KM" },
+  { "id": "15", "name": "Citroen eC3", "variant": "Shine", "battery": "29.2 KWH", "range": "320 KM" },
+
+  { "id": "16", "name": "Tata Curvv EV", "variant": "Concept", "battery": "50 KWH", "range": "500 KM" },
+  { "id": "17", "name": "Tata Harrier EV", "variant": "Upcoming", "battery": "60 KWH", "range": "500 KM" },
+  { "id": "18", "name": "Tata Safari EV", "variant": "Concept", "battery": "65 KWH", "range": "520 KM" },
+  { "id": "19", "name": "Mahindra eVerito", "variant": "D2", "battery": "21.2 KWH", "range": "181 KM" },
+  { "id": "20", "name": "Mahindra eKUV100", "variant": "Base", "battery": "15.9 KWH", "range": "147 KM" },
+
+  { "id": "21", "name": "MG Marvel R Electric", "variant": "Luxury", "battery": "70 KWH", "range": "402 KM" },
+  { "id": "22", "name": "MG4 EV", "variant": "Standard", "battery": "51 KWH", "range": "350 KM" },
+  { "id": "23", "name": "Hyundai Creta EV", "variant": "Upcoming", "battery": "45 KWH", "range": "400 KM" },
+  { "id": "24", "name": "Hyundai Venue EV", "variant": "Concept", "battery": "40 KWH", "range": "350 KM" },
+
+  { "id": "25", "name": "Kia EV9", "variant": "GT Line", "battery": "99.8 KWH", "range": "541 KM" },
+  { "id": "26", "name": "Kia EV5", "variant": "Standard", "battery": "64 KWH", "range": "480 KM" },
+
+  { "id": "27", "name": "BYD Seal", "variant": "Performance", "battery": "82.5 KWH", "range": "570 KM" },
+  { "id": "28", "name": "BYD Dolphin", "variant": "Premium", "battery": "44.9 KWH", "range": "427 KM" },
+
+  { "id": "29", "name": "Citroen eC3 Aircross", "variant": "Upcoming", "battery": "30 KWH", "range": "350 KM" },
+  { "id": "30", "name": "Tata Ace EV", "variant": "Cargo", "battery": "21.3 KWH", "range": "154 KM" }
+]
