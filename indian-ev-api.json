@@ -2,7 +2,6 @@
   { "id": "1", "name": "Tata Nexon EV", "variant": "Empower+ Long Range", "battery": "40.5 KWH", "range": "465 KM" },
   { "id": "2", "name": "Tata Punch EV", "variant": "Long Range", "battery": "35 KWH", "range": "421 KM" },
   { "id": "3", "name": "Tata Tiago EV", "variant": "XT LR", "battery": "24 KWH", "range": "315 KM" },
-  { "id": "4", "name": "Tata Tigor EV", "variant": "XZ+", "battery": "26 KWH", "range": "315 KM" },
   { "id": "5", "name": "Mahindra XUV400", "variant": "EL Pro", "battery": "39.4 KWH", "range": "390 KM" },
   { "id": "6", "name": "Mahindra BE 6", "variant": "Base", "battery": "60 KWH", "range": "450 KM" },
   { "id": "7", "name": "Mahindra XEV 9e", "variant": "Top", "battery": "70 KWH", "range": "500 KM" },
